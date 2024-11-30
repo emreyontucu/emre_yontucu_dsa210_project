@@ -11,7 +11,10 @@
 
 ## Data Source:
   The data was retrieved from Ticket Restaurant application and exported in Excel format.
-  This Excel table shows the restaurant name, transaction name, transaction amount and remaining card balance. So that datas can be compared to each other.
+  This Excel table shows the:
+  Restaurant name
+  Transaction name
+  Transaction amount and remaining card balance. So that datas can be compared to each other.
 
 ## Analysis:
   Expenditure Trends by Periods: Comparing the spending amount between summer and school periods. Visualizing this patterns with line and bar charts.
