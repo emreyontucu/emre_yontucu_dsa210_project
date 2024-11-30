@@ -54,7 +54,6 @@ My name is Emre Yontucu (Student ID: 32463). Below you can find my project:
  ####    •The card is used more on weekdays than on weekends.
 
 ## Limitations:
- ####   •The analysis is based on personal data. So it can be generalized. Also it has some private data which will not shown here.(personal identifiers)
-
+ ####   •The analysis is based on personal data. So it can be generalized. Also it has some private data which will not shown here. Personal identifiers such as card number, and location. These are not included in the project.
 
   
