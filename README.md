@@ -1,7 +1,7 @@
 ## Motivation:
-  The purpose of this project is analyzing the personal data from Ticket Restuaurant Card. By examining this data I aim to   gein depper insights of by spending habits. While analyzing it I will observe my eating behaviours, how my spending habits  change between summer and school period, identifying the food categories I spend most on and tracking how quickly my        balance depletes after each top-up.
+  The purpose of this project is analyzing the personal data from Ticket Restuaurant Card. By examining this data I aim to   gein depper insights of by spending habits. While analyzing it I will observe my eating behaviours, how my spending habits  change between summer and school period, identifying the food categories I spend most on and tracking how quickly my balance depletes after each top-up.
 
-# The following tools will be used in this project:
+## The following tools will be used in this project:
   Python:
     Pandas: For data structring.
     Matplotlib and Seaborn: For visualization.
