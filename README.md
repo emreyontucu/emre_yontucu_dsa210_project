@@ -29,8 +29,5 @@
 ## Limitations:
   The analysis is based on personal data. So it can be generalized. Also it has some private data which will not shown here.(personal identifiers)
 
-## Future Work:
-  Analysis time can be extended for long term comparasions.
-  Some predictible model can be developed for future spendings.
-  Adding some detailed cathegories might help for the better ideas.
+
   
