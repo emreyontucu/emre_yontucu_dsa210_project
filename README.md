@@ -1,3 +1,7 @@
+# Sabancı University DSA210 - Fall 2024-2025 Term Project
+
+My name is Emre Yontucu (Student ID: 32463). Below you can find my project:
+
 ## Motivation:
  The purpose of this project is analyzing the personal data from Ticket Restuaurant Card. By examining this data I aim to gain depper insights of by spending habits. So that this project mainly focuses on:
  ####   •Observing my eating behaviours.
