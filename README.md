@@ -34,6 +34,7 @@ My name is Emre Yontucu (Student ID: 32463). Below you can find my project:
 
   ## Data Collection Method:
   #### •Transaction Data: The data was transferred from Ticket Restaurant application with Excel Format. Approximately 1 year's worth of data can be seen in this excel file.  This dataset forms the basis of almost all analysis.
+  ####  •Data Cleaning: Any missing or wrong data will be handled and corrected.
   
  ####  •Classification of Transactions: Transactions will be categorized by looking the restaurant name and the descriptions of transcations. Categories such as "Fast Food", "Cafe" will be assigned.
  
