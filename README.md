@@ -48,7 +48,7 @@ My name is Emre Yontucu (Student ID: 32463). Below you can find my project:
  ####   •Daily Spending Analysis: I will group the data with days and visualize them by using histogram and bar charts. 
  ####   •Highest Spending: I will determine the restaurants with highest spending and ranked them with violin plots.
 
-## Hypothesis:
+## Hypothesis Testing and p-value:
  ####   •Spending Patterns: Identify whether spending is more frequent or larger on weekdays or weekends. Provides actionable insights for budgeting and financial planning.
  ####   •Statistical Confidence: The p-value quantifies the confidence level in rejecting or accepting the null hypothesis:
  ####   •If p-value < 0.05: There is a significant difference between weekday and weekend spending.
