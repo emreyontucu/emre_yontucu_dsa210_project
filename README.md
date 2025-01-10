@@ -43,10 +43,18 @@ My name is Emre Yontucu (Student ID: 32463). Below you can find my project:
 
 ## Analysis:
  ####   •Expenditure Trends by Periods: Comparing the spending amount between summer and school periods. Visualizing these patterns with line and bar charts.
- ####   •Food Category: Finding which food category I spent most on with percentages Then displaying them with pie charts and bar charts.
- ####   •Balance Deplation Analysis: I will check which month my balance runs out faster than others and compare the months. Displaying them with line charts.
- ####   •Daily Spending Analysis: I will group the data with days and visualize them by using histogram. 
- ####   •Highest Spending: I will determine the restaurants with highest spending and ranked them with bar charts.
+ ####   •Food Category: Finding which food category I spent most on with percentages Then displaying them with box plots.
+ ####   •Balance Deplation Analysis: I will check in which my balance runs out faster and compare them. Displaying them with scatter plots.
+ ####   •Daily Spending Analysis: I will group the data with days and visualize them by using histogram and bar charts. 
+ ####   •Highest Spending: I will determine the restaurants with highest spending and ranked them with violin plots.
+
+## Hypothesis:
+ ####   •Spending Patterns: Identify whether spending is more frequent or larger on weekdays or weekends. Provides actionable insights for budgeting and financial planning.
+ ####   •Statistical Confidence: The p-value quantifies the confidence level in rejecting or accepting the null hypothesis:
+ ####   •If p-value < 0.05: There is a significant difference between weekday and weekend spending.
+ ####   •Otherwise: Spending behavior does not differ significantly.
+ ####   •HCustom Implementation: The t-test is manually implemented using numpy, demonstrating the mathematical process behind hypothesis testing and removing reliance on external libraries.
+
   
  ## Findings:
  ####    •I used this card more during school period than summer.
